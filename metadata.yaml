@@ -1,0 +1,38 @@
+_repo: Look-to-the-Stars_65075
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Bill
+    - Terry, Willis E.
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Hawkins, Willard E.
+    alias: Hawkins, Willard
+    birthdate: 1887
+    deathdate: 1970
+    gutenberg_agent_id: '53171'
+    url: http://www.gutenberg.org/2009/agents/53171
+description: ''
+gutenberg_issued: '2021-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Space flight -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space colonies -- Fiction'
+- GITenberg
+title: Look to the Stars
+url: http://www.gutenberg.org/ebooks/65075
